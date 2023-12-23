@@ -12,8 +12,8 @@ Player 2's movement keys are the arrow keys, with their attack key being ',' and
 
 The characters have the following special attacks:
  - Shielder can block attacks and other characters
- - Vampire can attack from afar
- - Silverash can land a hit with high knockback and damage
+ - Vampire can attack from afar and heal
+ - Silverash can attack for increased damage with longer range
 
 
 Potential improvements:
